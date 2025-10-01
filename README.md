@@ -2,7 +2,7 @@
 <a style="text-decoration: none" target="_blank"href="https://github.com/AryanGoyal1610">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Abhijeettttttt.Abhijeettttttt&left_color=gray&right_color=blue&left_text=Total%20Coders%20Visited">
 </a>  
-<a style="text-decoration: none" target="_blank" href="https://www.linkedin.com/in/abhijeet-raj-84548b289/" >
+<a style="text-decoration: none" target="_blank" href="https://www.linkedin.com/in/aryan-goyal-580021275/" >
 <img width="80"src="https://img.shields.io/badge/-Connect-blue?style=flat&logo=Linkedin&logoColor=white">
 </a>
 </div>
