@@ -37,7 +37,7 @@
 <h2>🔥| My contribution streak</h2>
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhijeettttttt#version3"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AryanGoyal1610#version3"/>
     
   </a>
 </p>
@@ -45,9 +45,9 @@
 <h2>⭐ | Github Stats </h2>
 
 <div align="center">
-<a href="https://github.com/Abhijeettttttt">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhijeettttttt&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijeettttttt&layout=compact&langs_count=7&theme=default"/></a>
+<a href="https://github.com/AryanGoyal1610">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AryanGoyal1610&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanGoyal1610&layout=compact&langs_count=7&theme=default"/></a>
 </div>
 <h2>🛠 | Languages, Frameworks, and Tools </h2>
 <table>
